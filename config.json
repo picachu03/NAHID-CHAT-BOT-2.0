@@ -20,7 +20,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61554922259730",
+    "61555696812994",
     "100088663946768",
     "61581082504479",
     "",
@@ -32,7 +32,7 @@
   "handlerReaction": {
     "enable": true,
     "HandelReactionMain": [
-      "61554922259730",
+      "61555696812994",
     "100088663946768",
     "61581082504479",
     "",
@@ -45,7 +45,7 @@
   "whiteListMode": {
     "enable": true,
     "whiteListIds": ["100088663946768",
-"61554922259730",
+"61555696812994",
       "61581082504479"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
